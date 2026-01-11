@@ -1,10 +1,15 @@
 {
-    "products": [
-        {
-            "name": "Rice",
-            "category": "Grain",
-            "quoteTimestamp": "2026-01-12 06:50",
-            "price": 2.75
-        }
-    ]
+  "products": [
+    {
+      "id": 1, 
+      "name": "Rice",
+      "category": "Grain",
+      "quoteTimestamp": "2026-01-12 06:50",
+      "price": 2.75,
+      "metadata": {
+        "origin": "Thailand",
+        "organic": true
+      }
+    }
+  ]
 }
